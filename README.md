@@ -4,7 +4,7 @@ A blog series on DevRel focusing on the misconceptions of the Developer Relation
 Over the last years, I've come across many misconceptions about Developer Relations. I realized it's time to manifest these and provide clarification.
 You can use these whenever you struggle sharing the vision of DevRel in your environment.
 
-As a first step, I will collect common questions and try to answer them. My goal is to answer them not only from a purely DevRel perspective but also paint the bigger organizational picutre.
+As a first step, I will collect common questions and try to answer them. My goal is to answer them not only from a purely DevRel perspective but also paint the bigger organizational picture.
 People around you don't mean to harm you with their questions, they legitimately try to understand the core work and the value.
 
 Let's start ...
